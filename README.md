@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Thoth Logo" width="200"/>
+</p>
+
 # Thoth Programming Language
 
 ![GitHub contributors](https://img.shields.io/github/contributors/CodewithD2/thoth)
