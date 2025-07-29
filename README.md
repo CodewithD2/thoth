@@ -63,7 +63,14 @@ The project is structured into the following key files:
 
 - **`Token.py`**: Defines the `Token` class and `TokenType` enumeration, which represent the basic units of the language.
 - **`Lexer.py`**: Contains the `Lexer` class, which is responsible for lexical analysis (converting source code into a stream of tokens).
+- **`AST.py`**: Defines the Abstract Syntax Tree (AST) nodes for the language.
+- **`Parser.py`**: Contains the `Parser` class, which is responsible for parsing the token stream and building an AST.
 - **`main.py`**: The main entry point for the interpreter.
+
+## Features
+
+- **Lexer**: Tokenizes the source code.
+- **Parser**: Parses the token stream and builds an Abstract Syntax Tree.
 
 ## Contributing
 
